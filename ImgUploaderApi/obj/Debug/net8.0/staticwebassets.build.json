@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "wGQ37zb8fJEeVDL5oKuLuLkX1lFyw5xzuOgOiRkbs2o=",
+  "Source": "ImgUploaderApi",
+  "BasePath": "_content/ImgUploaderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ImgUploaderApi\\wwwroot",
+      "Source": "ImgUploaderApi",
+      "ContentRoot": "C:\\cApps\\1.Work_Study\\SK\\Assignment2\\SK_-2_Website\\ImgUploaderApi\\wwwroot\\",
+      "BasePath": "_content/ImgUploaderApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\cApps\\1.Work_Study\\SK\\Assignment2\\SK_-2_Website\\ImgUploaderApi\\wwwroot\\ImageUploaderForm.html",
+      "SourceId": "ImgUploaderApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\cApps\\1.Work_Study\\SK\\Assignment2\\SK_-2_Website\\ImgUploaderApi\\wwwroot\\",
+      "BasePath": "_content/ImgUploaderApi",
+      "RelativePath": "ImageUploaderForm.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImageUploaderForm.html"
+    },
+    {
+      "Identity": "C:\\cApps\\1.Work_Study\\SK\\Assignment2\\SK_-2_Website\\ImgUploaderApi\\wwwroot\\script.js",
+      "SourceId": "ImgUploaderApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\cApps\\1.Work_Study\\SK\\Assignment2\\SK_-2_Website\\ImgUploaderApi\\wwwroot\\",
+      "BasePath": "_content/ImgUploaderApi",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ]
+}

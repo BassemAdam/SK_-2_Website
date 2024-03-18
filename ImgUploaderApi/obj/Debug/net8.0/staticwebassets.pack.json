@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\cApps\\1.Work_Study\\SK\\Assignment2\\SK_-2_Website\\ImgUploaderApi\\wwwroot\\ImageUploaderForm.html",
+      "PackagePath": "staticwebassets\\ImageUploaderForm.html"
+    },
+    {
+      "Id": "C:\\cApps\\1.Work_Study\\SK\\Assignment2\\SK_-2_Website\\ImgUploaderApi\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ImgUploaderApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ImgUploaderApi.props",
+      "PackagePath": "build\\ImgUploaderApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ImgUploaderApi.props",
+      "PackagePath": "buildMultiTargeting\\ImgUploaderApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ImgUploaderApi.props",
+      "PackagePath": "buildTransitive\\ImgUploaderApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
